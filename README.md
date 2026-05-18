@@ -1,26 +1,30 @@
-# Support Page for TC Thanh Toán
+# Yêu cầu xoá tài khoản POS365
 
-This is the official support page for **TC Thanh Toán**. Here, you can find assistance, troubleshooting guides, and contact information for any issues related to the app.
+Người dùng có thể yêu cầu xoá tài khoản POS365 và dữ liệu liên quan bằng cách gửi email tới:
 
-## Features
-- **FAQs**: Answers to frequently asked questions about the app.
-- **Guides**: Tutorials and tips to help you get the most out of the app.
-- **Contact Support**: Direct links to reach our support team for personalized help.
+[hotro@pos365.vn](mailto:hotro@pos365.vn)
 
-## Contact Us
-If you need help or have any questions, please reach out via the following methods:
+Tiêu đề email:
+Yêu cầu xoá tài khoản POS365
 
-- **Email**: [bacdz1412@icloud.com](mailto:bacdz1412@icloud.com)
-- **Phone**: +84-356-538-855
-- **Address**: Ha Noi, Viet Nam
+Trong email, vui lòng cung cấp:
 
-## Privacy Policy
-Your privacy is important to us. Read our full [Privacy Policy](https://www.freeprivacypolicy.com/live/257efcdf-c81d-4b5b-8154-affddf272462) for details on how we handle user data.
+* Tên tài khoản
+* Số điện thoại đăng ký
+* Email đăng ký (nếu có)
 
-## Links
-- [Download App](https://apps.apple.com/app/6738701260)
+Sau khi tiếp nhận yêu cầu, chúng tôi sẽ xử lý việc xoá tài khoản và dữ liệu liên quan trong vòng 7 ngày làm việc.
 
----
+Các dữ liệu sẽ bị xoá:
 
-**Note**: This support page is hosted on [GitHub Pages](https://pages.github.com/). For any issues related to this page, please report them [here](https://github.com/yourgithubusername/yourrepositoryname/issues).
+* Thông tin tài khoản
+* Dữ liệu đăng nhập
+* Dữ liệu cấu hình cá nhân
 
+Một số dữ liệu có thể được lưu giữ theo yêu cầu pháp luật hoặc phục vụ đối soát giao dịch:
+
+* Hoá đơn
+* Dữ liệu kế toán
+* Nhật ký giao dịch
+
+Thời gian lưu giữ tối đa đối với các dữ liệu bắt buộc theo quy định pháp luật: 90 ngày hoặc theo quy định hiện hành.
